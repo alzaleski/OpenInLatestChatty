@@ -1,0 +1,9 @@
+Package: com.explodemode.openinlatestchatty
+Name: Open in Latest Chatty
+Depends: mobilesubstrate, ws.hbang.libopener
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Open links to Shacknews commments in Latest Chatty.
+Maintainer: explodemode
+Author: explodemode
+Section: Tweaks

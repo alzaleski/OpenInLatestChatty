@@ -1,0 +1,6 @@
+[submodule "libopener"]
+	path = libopener
+	url = git://github.com/hbang/libopener.git
+[submodule "theos"]
+	path = theos
+	url = git://github.com/DHowett/theos.git
